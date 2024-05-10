@@ -23,4 +23,13 @@
   2. Choosing a development tool
      * Using watch mode
      * using webpack-dev-server
+***
+* ***Production***(after skipping other tuts)
+  1. Setup (adding the webpack.common.js, webpack.dev.js, webpack.prod.js and setting them up)
+  2. NPM Scripts
+  3. Specify the mode
+  4. Minification
+  5. Source mapping
+  6. Minimize CSS
+  7. CLI alternatives
   
