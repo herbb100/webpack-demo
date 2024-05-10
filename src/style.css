@@ -1,4 +1,12 @@
+@font-face {
+    font-family: 'Jersey';
+    src: url(./Jersey15-Regular.ttf) format('ttf');
+    font-weight: 600;
+    font-weight: normal;
+}
+
 .hello{
     color: red;
+    font-family: 'Jersey';
     background: url('./myImage.jpeg');
 }
